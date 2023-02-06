@@ -1,1 +1,1 @@
-current operating system , linux.
+#current operating system , linux.
